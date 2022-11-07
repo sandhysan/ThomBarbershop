@@ -1,0 +1,97 @@
+#hairstyle {
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(0deg, rgba(39, 37, 36, 0.733), rgba(58, 56, 53, 0.733)), url('../images/alatcukur.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#confirm {
+    position: relative;
+    padding-bottom: 40px;
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(0deg, rgba(61, 60, 59, 0.37), rgba(68, 67, 66, 0.438)), url('../images/bg-layout.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.bartext {
+    float: left;
+    text-align: left;
+    color: #fff;
+    font-weight: 600;
+}
+
+.bartext:hover {
+    color: #ff8800;
+    text-decoration: underline;
+}
+
+.test:hover {
+    background-color: #ffcba0f5;
+    cursor: pointer;
+    -webkit-transition: background-color 0.5s ease-out;
+    -moz-transition: background-color 0.5s ease-out;
+    -o-transition: background-color 0.5s ease-out;
+    transition: background-color 0.5s ease-out;
+}
+
+.not {
+    box-sizing: border-box;
+    width: 100%;
+    border: 2px solid rgb(177, 9, 9);
+    color: rgba(255, 255, 255, 0.774);
+    text-align: center;
+    font-weight: 700;
+}
+
+.navlogo {
+    float: right;
+}
+
+.terms {
+    color: rgba(255, 255, 255, 0.863);
+    font-weight: 500;
+}
+
+.bg-confirm {
+    background: #ffffff;
+    max-width: 768px;
+    width: 100%;
+    margin: auto;
+    padding: 30px;
+    box-sizing: border-box;
+    border: 4px solid rgb(0, 0, 0);
+    border-radius: 15px;
+}
+
+.bg-profil {
+    background: #ffffff;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 0 6px 9px 0px rgba(26, 25, 25, 0.637);
+}
+
+.text-form-con {
+    color: rgb(24, 22, 22);
+    font-weight: 700;
+}
+
+.hovers:hover {
+    text-decoration: underline;
+}
+
+.btn-posisi {
+    margin: auto;
+    max-width: 500px;
+    width: 100%;
+}
